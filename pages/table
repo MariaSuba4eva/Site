@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Табличная верстка</title>
+</head>
+<body>
+    <table border="1" width="100%">
+       <tr>
+           <td rowspan="2"></td>
+           <td rowspan="2">Название</td>
+           <td>Логин:</td>
+       </tr>
+       <tr>
+        <td>Пароль:</td>
+       </tr>
+       <tr>
+           <td colspan="3">Навигация:</td>
+       </tr>
+    </table>
+    <table>
+        <tr>
+
+        </tr>
+    </table>
+</body>
+</html>
